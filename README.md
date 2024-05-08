@@ -2,7 +2,7 @@
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-I code in Java and Python. I use Java for my AP Computer Science course, and I code in Python in my freetime, mostly working on my Discord bot, I'm interested in working with C++ in the future...
+I code in Java and Python. I use Java for my AP Computer Science course, and I code in Python in my freetime, mostly working on my Discord bot, I'm interested in working with Rust in the future...
 ## IDEs
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
