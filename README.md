@@ -12,3 +12,5 @@ I now use Neovim for most of my work, occasionally I will use IntelliJ IDEA for 
 ## Contact me
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
 The easiest way for you to contact me is through Discord, where I'm most active. My Discord name is **sm.it**
+## My stats
+![Smit's GitHub stats](https://github-readme-stats.vercel.app/api?username=smit4k&show_icons=true&bg_color=00000000)
