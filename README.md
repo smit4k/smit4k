@@ -1,4 +1,4 @@
-![Github Banner](github_banner.png "Github Banner")
+![Github Banner](github_banner.jpg "Github Banner")
 
 # Hello! I'm Saber 👋
 🛠️ currently working on [dotl](https://crates.io/crates/dotl) <br> 🧑‍🎓 junior in high school <br> 💻🎨 software development & ui/ux design
