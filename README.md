@@ -1,7 +1,7 @@
 ![Github Banner](github_banner.jpg "Github Banner")
 
 # Hello! I'm Saber 👋
-🛠️ currently working on [dotl](https://crates.io/crates/dotl) & [lqf](https://crates.io/crates/lqf) <br> 🧑‍🎓 junior in high school <br> 💻🎨 software development & ui/ux design
+🛠️ currently working on [dotl](https://github.com/smit4k/dotl) & [lqf](https://github.com/smit4k/lqf) <br> 🧑‍🎓 junior in high school <br> 💻🎨 software development & ui/ux design
 
 # Tech Stack
 ![Rust](https://img.shields.io/badge/-Rust-B7410E?style=for-the-badge&logo=rust)
