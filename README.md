@@ -3,7 +3,7 @@
 # Hello! I'm Saber 👋
 🛠️ currently working on [dotl](https://github.com/smit4k/dotl) & [lqf](https://github.com/smit4k/lqf) <br> 🧑‍🎓 junior in high school <br> 💻🎨 software development & ui/ux design
 
-# Tech Stack
+# Tech Used
 ![Rust](https://img.shields.io/badge/-Rust-B7410E?style=for-the-badge&logo=rust)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
