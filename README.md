@@ -1,4 +1,4 @@
-![Gradient Divier](gradient_divider_600x5.gif)
+![Gradient Divier](gradient_divider_1200x5.gif)
 
 ![Github Banner](github_banner.jpg "Github Banner")
 
@@ -25,4 +25,4 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-![Gradient Divier](gradient_divider_600x5.gif)
+![Gradient Divier](gradient_divider_1200x5.gif)
