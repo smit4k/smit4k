@@ -3,7 +3,7 @@
 ![Github Banner](github_banner.jpg "Github Banner")
 
 # Hello! I'm Smit 👋
-🛠️ currently working on [smit.codes](https://github.com/smit4k/smit.codes) & [conversia](https://github.com/smit4k/conversia) <br> 🧑‍🎓 junior in high school // robotics, engineering <br> 💻🎨 software development & ui/ux design
+🛠️ currently working on [smit.codes](https://github.com/smit4k/smit.codes), [conversia](https://github.com/smit4k/conversia), and [quicknote](https://github.com/smit4k/quicknote) <br> 🧑‍🎓 junior in high school // robotics, engineering <br> 💻🎨 software development & ui/ux design
 
 # Tech Used
 ![Rust](https://img.shields.io/badge/-Rust-B7410E?style=for-the-badge&logo=rust)
