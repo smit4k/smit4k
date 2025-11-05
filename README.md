@@ -3,7 +3,7 @@
 ![Github Banner](github_banner.jpg "Github Banner")
 
 # Hello! I'm Smit 👋
-🛠️ currently working on [smit.codes](https://github.com/smit4k/smit.codes), [chronicle](https://github.com/smit4k/chronicle), and [psi](https://github.com/smit4k/psi) <br> 🧑‍🎓 senior in high school // robotics, engineering <br> 💻🎨 software development & ui/ux design
+🛠️ currently working on [zentype](https://github.com/smit4k/zentype), [chronicle](https://github.com/smit4k/chronicle), and [psi](https://github.com/smit4k/psi) <br> 🧑‍🎓 senior in high school // robotics, engineering <br> 💻🎨 software development & ui/ux design
 
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=555&style=flat-square)
 ![rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust&color=111&logoColor=AAA&style=flat-square)
