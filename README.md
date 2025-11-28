@@ -1,7 +1,3 @@
-![Gradient Divier](gradient_divider_1200x5.gif)
-
-![Github Banner](github_banner.jpg "Github Banner")
-
 # Hello! I'm Smit 👋
 🛠️ currently working on [zentype](https://github.com/smit4k/zentype), [chronicle](https://github.com/smit4k/chronicle), and [psi](https://github.com/smit4k/psi) <br> 🧑‍🎓 senior in high school // robotics, engineering <br> 💻🎨 software development & ui/ux design
 
@@ -16,5 +12,3 @@
 ![neovim](https://img.shields.io/static/v1?logo=neovim&label=&message=NeoVim&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=111&logoColor=AAA&style=flat-square)
 ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=111&logoColor=AAA&style=flat-square)
-
-![Gradient Divier](gradient_divider_1200x5.gif)
