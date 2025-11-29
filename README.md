@@ -1,5 +1,9 @@
-# Hello! I'm Smit 👋
-🛠️ currently working on [snapshot.nvim](https://github.com/smit4k/snapshot.nvim) and [chronicle](https://github.com/smit4k/chronicle) <br> 🧑‍🎓 senior in high school // robotics, engineering <br> 💻🎨 software development & ui/ux design
+# Hey! 👋
+》currently working on [snapshot.nvim](https://github.com/smit4k/snapshot.nvim) and [chronicle](https://github.com/smit4k/chronicle) 
+<br> 
+》senior in high school // robotics, engineering 
+<br>
+》software development & ui/ux design
 
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=555&style=flat-square)
 ![rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust&color=111&logoColor=AAA&style=flat-square)
