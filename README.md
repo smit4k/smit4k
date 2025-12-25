@@ -1,6 +1,8 @@
 # Hey! 👋
-》currently working on [snapshot.nvim](https://github.com/smit4k/snapshot.nvim) and [chronicle](https://github.com/smit4k/chronicle) 
+》currently working on [Itemphobia](https://github.com/smit4k/Itemphobia)
 <br> 
 》senior in high school // robotics, engineering 
 <br>
 》software development & ui/ux design
+<br>
+<sub>Homepage: [smit.codes](https://smit.codes)
