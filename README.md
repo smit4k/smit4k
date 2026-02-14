@@ -3,6 +3,6 @@
 <br> 
 》 senior in high school // robotics, engineering 
 <br>
-》 software development, robotics
+》 software development, game modding, AI
 <br>
 <sub>Homepage: [smit.codes](https://smit.codes)
