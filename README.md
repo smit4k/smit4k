@@ -5,4 +5,4 @@
 <br>
 》 software development, ai, neovim
 <br>
-<sub>Homepage: [smit.codes](https://smit.codes)
+<sub> Homepage: [smit.codes](https://smit.codes)
