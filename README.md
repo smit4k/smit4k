@@ -1,5 +1,5 @@
 # Hey! 👋
-》 currently working on [snapshot.nvim](https://github.com/smit4k/snapshot.nvim) and [badges.nvim](https://github.com/smit4k/badges.nvim)
+》 currently working on [snapshot.nvim](https://github.com/smit4k/snapshot.nvim)
 <br> 
 》 senior in high school // robotics, engineering 
 <br>
